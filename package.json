@@ -2,7 +2,7 @@
   "name": "es6-string-typescript",
   "displayName": "es6-string-typescript",
   "description": "Highlight TS language in ES6 template literals",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "HoodieCollin",
   "icon": "docs/logo.png",
   "engines": {
