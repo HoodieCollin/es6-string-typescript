@@ -3,6 +3,7 @@
   "displayName": "es6-string-typescript",
   "description": "Highlight TS language in ES6 template literals",
   "version": "1.0.0",
+  "publisher": "HoodieCollin",
   "icon": "docs/logo.png",
   "engines": {
     "vscode": "^1.19.0"
