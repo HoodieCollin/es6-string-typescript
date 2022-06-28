@@ -1,12 +1,12 @@
-# ES6 String JavaScript 
-> [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=zjcompt.es6-string-javascript)
+# ES6 String Typescript 
+> [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=HoodieCollin.es6-string-typescript)
 
 Adds syntax highlight support for code, placed in ES6 template literals:
-- JavaScript
+- Typescript
 
 ## Installation
 
-- Install `es6-string-javascript` from extensions (`ctrl + shift + x`)
+- Install `es6-string-typescript` from extensions (`ctrl + shift + x`)
 
 ## Example
 
@@ -14,7 +14,7 @@ Adds syntax highlight support for code, placed in ES6 template literals:
 
 ## Usage
 
-Simply insert `javascript` or the comment `/*javascript*/` before a template literal.
+Simply insert `typescript` or the comment `/*typescript*/` before a template literal.
 
 > Tip: Comment in the beginning of untagged template literal is required.
 
@@ -24,4 +24,4 @@ Simply insert `javascript` or the comment `/*javascript*/` before a template lit
 
 ## Credits
 
-This is a fork of [es6-string-css](https://github.com/bashmish/es6-string-css) which is a fork of the awesome extension [es6-string-html](https://github.com/mydesireiscoma/es6-string-html/).
+This is a fork of [es6-string-javascript](https://github.com/zjcompt/es6-string-javascript) which is a fork of [es6-string-css](https://github.com/bashmish/es6-string-css) which is a fork of the awesome extension [es6-string-html](https://github.com/mydesireiscoma/es6-string-html/).

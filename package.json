@@ -1,9 +1,8 @@
 {
-  "name": "es6-string-javascript",
-  "displayName": "es6-string-javascript",
-  "description": "Highlight javascript language in ES6 template literals",
-  "version": "1.0.1",
-  "publisher": "zjcompt",
+  "name": "es6-string-typescript",
+  "displayName": "es6-string-typescript",
+  "description": "Highlight TS language in ES6 template literals",
+  "version": "1.0.0",
   "icon": "docs/logo.png",
   "engines": {
     "vscode": "^1.19.0"
@@ -13,18 +12,18 @@
     "theme": "light"
   },
   "repository": {
-    "url": "https://github.com/zjcompt/es6-string-javascript"
+    "url": "https://github.com/hoodiecollin/es6-string-typescript"
   },
   "bugs": {
-    "url": "https://github.com/zjcompt/es6-string-javascript/issues"
+    "url": "https://github.com/hoodiecollin/es6-string-typescript/issues"
   },
   "categories": [
     "Programming Languages"
   ],
   "keywords": [
-    "javascript",
+    "typescript",
     "es6",
-    "lit-javascript",
+    "lit-typescript",
     "lit-html"
   ],
   "contributes": {
@@ -36,12 +35,15 @@
           "source.jsx",
           "source.tsx"
         ],
-        "scopeName": "inline.es6-javascript",
-        "path": "./syntaxes/es6-inline-javascript.json",
+        "scopeName": "inline.es6-typescript",
+        "path": "./syntaxes/es6-inline-typescript.json",
         "embeddedLanguages": {
-          "meta.embedded.block.javascript": "javascript"
+          "meta.embedded.block.typescript": "typescript"
         }
       }
     ]
+  },
+  "devDependencies": {
+    "vsce": "^2.9.2"
   }
 }
