@@ -8,13 +8,9 @@ Adds syntax highlight support for code, placed in ES6 template literals:
 
 - Install `es6-string-typescript` from extensions (`ctrl + shift + x`)
 
-## Example
-
-![Example](docs/demo.png)
-
 ## Usage
 
-Simply insert `typescript` or the comment `/*typescript*/` before a template literal.
+Simply insert `ts` or `typescript` or the comment `/*ts*/` or `/*typescript*/` before a template literal.
 
 > Tip: Comment in the beginning of untagged template literal is required.
 
